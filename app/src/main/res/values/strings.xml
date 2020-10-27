@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="Title1">PREMIER LEAGUE</string>
+    <string name="premiereCountry">ENGLAND</string>
+    <string name="premiereText">Premier League began in 1992 preceded by the First Division of the Football League that was founded in 1888. Today it holds the status of the best football league in the world. Even though the top clubs in England dont win the biggest European Cups with same frequency as the top clubs in Spain, the Premier League is still considered to contain the toughest competition overall. The league consists of 20 teams (except the three first seasons in which 22 teams were included), which meet each other two times (home and away) per season; 380 games are played in total. Most points by a team in a season, 100 (2.6 per match), were collected by Manchester City in the 2017 2018 season.</string>
+    
+    <string name="Title2">LA LIGA</string>
+    <string name="laligaCountry">SPAIN</string>
+    <string name="laligatext">La Liga is the mens top professional football division of the Spanish football league system.La Liga is contested by 20 teams, with the three lowest-placed teams at the end of each season relegated to the Segunda División and replaced by the top two teams and a play-off winner in that division. A total of 62 teams have competed in La Liga since its inception. Nine teams have been crowned champions, with Real Madrid winning the title a record 34 times and FC Barcelona 26 times.La Liga has also seen other champions, including Atlético Madrid, Valencia, and Deportivo de La Coruña. According to UEFAs league coefficient rankings, La Liga has been the top league in Europe in each of the seven years from 2013 to 2019</string>
+
+    <string name="Title3">SERIE A</string>
+    <string name="serieacountry">ITALY</string>
+    <string name="serieatext">Serie A is a professional league competition for football clubs located at the top of the Italian football league system and the winner is awarded the Scudetto and the Coppa Campioni DItalia. It has been operating as a round-robin tournament for over ninety years since the 1929–30 season. Serie A is regarded as one of the best football leagues in the world and it is often depicted as the most tactical and defensively sound national league.Serie A was the worlds second-strongest national league in 2014 according to IFFHS. Serie A is ranked fourth among European leagues according to UEFAs league coefficient, behind La Liga, the Premier League and the Bundesliga, and ahead of Ligue 1, which is based on the performance of Italian clubs in the Champions League and the Europa League during the previous five years.Serie A led the UEFA ranking from 1986 to 1988 and from 1990 to 1999.</string>
+
+</resources>

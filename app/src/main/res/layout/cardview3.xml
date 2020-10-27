@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Title3"
+        android:textColor="@color/teal_200"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/titlemargintop"
+        android:textSize="@dimen/titletextsize"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/ImageMarginStart"
+        android:layout_marginEnd="@dimen/ImageMarginEnd"
+        android:layout_marginTop="@dimen/ImageMarginTop"
+        android:layout_marginBottom="@dimen/ImageMarginBottom"
+        android:adjustViewBounds="true"
+        android:src="@drawable/seriealogo"/>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/horlineartop"
+        android:layout_marginBottom="@dimen/horlinearbottom">
+
+    >
+
+     <ImageButton
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:src="@drawable/ic_baseline_favorite_border_24"
+         android:background="@android:color/transparent"
+         android:layout_marginStart="@dimen/cardImageButtonMarginStart"
+         android:layout_weight="0.1"
+         />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/serieacountry"
+            android:textColor="@color/white"
+            android:textSize="@dimen/countryTextSize"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.9"/>
+        
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/longtextmarginstart"
+        android:layout_marginEnd="@dimen/longtextmarginend"
+        android:layout_marginTop="@dimen/longtextmargintop"
+        android:layout_marginBottom="@dimen/longtextmarginbottom"
+        android:text="@string/serieatext"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

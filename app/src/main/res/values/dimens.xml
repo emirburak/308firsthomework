@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titletextsize">35sp</dimen>
+    <dimen name="titlemargintop">5dp</dimen>
+    <dimen name="corner">50dp</dimen>
+    <dimen name="card_linempty">10dp</dimen>
+    <dimen name="countryTextSize">20sp</dimen>
+    <dimen name="ImageMarginStart">15dp</dimen>
+    <dimen name="ImageMarginEnd">15dp</dimen>
+    <dimen name="ImageMarginTop">5dp</dimen>
+    <dimen name="ImageMarginBottom">0dp</dimen>
+    <dimen name="horlineartop">30dp</dimen>
+    <dimen name="horlinearbottom">5dp</dimen>
+    <dimen name="cardImageButtonMarginStart">25dp</dimen>
+    <dimen name="longtextmarginstart">25dp</dimen>
+    <dimen name="longtextmarginend">25dp</dimen>
+    <dimen name="longtextmargintop">20dp</dimen>
+    <dimen name="longtextmarginbottom">10dp</dimen>
+    <dimen name="Textsize">18sp</dimen>
+</resources>
